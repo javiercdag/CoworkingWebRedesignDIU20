@@ -37,12 +37,17 @@ Para obtener más información sobre esta experiencia de usuario mire la imagen 
 
 ![](media/DB_journey.jpg)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+Usability Review
 ----
 
-- Enlace al documento: ![Haga click aquí para ver el documento](P1/UsabilityReview/UsabilityReview-Badi-Mumavi.pdf)
-- Valoración final (numérica): 85
-- Comentario sobre la valoración:  En general, nuestra valoración de Badi ha sido positiva. Destaca su fácil uso y minimalista interfaz, aunque ésta es a la vez su mayor defecto.
+- Enlace al documento: ![Haga click aquí para ver el documento](Documents/UsabilityReview-erranT-FranciscoJavierCasadoDeAmezuaGarcia.xls)
+- Valoración final (numérica): 69
+- Comentario sobre la valoración:
+La valoración de usabilidad da un resultado aceptable, pero muestra diferentes aspectos a mejorar al igual que otros positivos que han de aprovecharse a la hora del rediseño. Se recomienda encarecidamente comprobar el documento .xls debido a que se han incluido diversos comentarios a cada criterio evaluado.
+
+Como puntos negativos destaca la ausencia de ayuda al usuario más allá de la que se pueda obtener a través del formulario de contacto, así como el pobre feedback que recibe al usuario al interactuar con la práctica y una navegación mejorable.
+
+Por otra parte, destacan positivamente tanto el sistema de búsqueda que incorpora la página en la actualidad como la ofetra de servicios y funcionalidades, en especial el listado de usuarios, si bien se podría optimizar sustituyendo el trámite mediante formularios de contacto por un sistema de registro y pago online que automatizara el proceso todo lo posible.
 
 
 ## Paso 2. UX Design  
