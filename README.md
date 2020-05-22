@@ -6,6 +6,8 @@ Por: Francisco Javier Casado de Amezúa García
 Descripción: En este trabajo se realizará una propuesta de valor sobre el rediseño del sitio web de una empresa granadina centrada en coworking, erranT. La propuesta no sugiere únicamente problemas encontrados en la versión actual del portal, si no también cambios y mejoras que aplicar sobre dicho portal para lograr ofrecer una mejor experiencia de usuario.
 
 
+## Análisis del diseño actual
+
 Competitive Analysis
 -----
 
@@ -39,6 +41,8 @@ Para obtener más información sobre esta experiencia de usuario mire la imagen 
 
 Usability Review
 ----
+Se ha realizado un extenso análisis guiado por objetivos del nivel de usabilidad del portal web de erranT, con el objetivo de poder obtener, a partir de éste, conclusiones que ayuden a asegurar la usabilidad de la propuesta de rediseño.
+La información acerca del informe, así como un breve resumen de la valoración, se muestran a continuación:
 
 - Enlace al documento: ![Haga click aquí para ver el documento](documents/UsabilityReview-erranT-FranciscoJavierCasadoDeAmezuaGarcia.xls)
 - Valoración final (numérica): 69
@@ -50,15 +54,24 @@ Como puntos negativos destaca la ausencia de ayuda al usuario más allá de la q
 Por otra parte, destacan positivamente tanto el sistema de búsqueda que incorpora la página en la actualidad como la ofetra de servicios y funcionalidades, en especial el listado de usuarios, si bien se podría optimizar sustituyendo el trámite mediante formularios de contacto por un sistema de registro y pago online que automatizara el proceso todo lo posible.
 
 
-## Paso 2. UX Design  
+## Propuesta de valor del rediseño 
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+Listado de mejoras y nuevas ideas
 ----
 
-Con FHome queremos implementar nuevas ideas basadas en el estudio que se ha realizado en este documento que incluyen búsqueda inteligente de pisos, uso de heurísticas para mejorar la experiencia de usuario y mejoras generales en la calidad de la experiencia de cada cliente.
+A continuación, en base al análisis realizado a lo largo del apartado anterior, se proponen algunas modificaciones así como nuevas ideas que podría implementar la página y que no lo hace ni ésta ni las de los competidores que han sido analizadas:
 
-El Feedback Capture Grid utilizado para encontrar problemas, sugerencias y nuevas ideas se encuentra disponible ![AQUÍ](P2/FeedbackCaptureGrid)
+**Mejoras:**
+- Mejora de la estructura de navegación: se eliminan los formularios de contacto duplicados, quedando éste localizado únicamente en la página de contacto. Se elimina también las referencias, en la página principal, a "La Pecera Comunicación", siendo este espacio sustituido por una galería de fotos del local.
+- Mejora de la experiencia de usuarios noveles: introducción de una sección de ayuda en el menú principal, y enlaces a la misma en cada una de las secciones de la página.
+- Mejora de la accesibilidad del sitio web mediante la introducción de una nueva sección enfocada explícitamente para esta finalidad, acessible desde el pie de página de cualquiera de las secciones del portal.
+- Pequeñas mejoras de visualización general: centrado de los iconos de redes sociales, cambio de color de la fuente de texto sobre imágenes claras, purga de enlaces rotos y errores de back-end en la versión localizada al idioma inglés.
+
+**Nuevas ideas**
+- Pagar online: sistema de pago regular mensual personalizable.
+- Elección de estación de trabajo: poder elegir, en un mapa interactivo, qué estación elegir (por supuesto, entre las disponibles). El mapa indicará también los usuarios adyacenetes a cada puesto libre, infromación extraída del listado de usuarios existente.
+- Sistema de registro y sesiones de usuario: pese a que parece ser algo evitado por las páginas de coworking, un sistema que garantice el registro y posterior inicio de sesión permitiría agilizar los trámites e interactuaría directamente con el pago online para garantizar su seguridad.
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
