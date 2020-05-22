@@ -5,8 +5,8 @@ Por: Francisco Javier Casado de Amezúa García
 
 Descripción: En este trabajo se realizará una propuesta de valor sobre el rediseño del sitio web de una empresa granadina centrada en coworking, erranT. La propuesta no sugiere únicamente problemas encontrados en la versión actual del portal, si no también cambios y mejoras que aplicar sobre dicho portal para lograr ofrecer una mejor experiencia de usuario.
 
-
-## Análisis del diseño actual
+&nbsp;
+# Análisis del diseño actual
 
 Competitive Analysis
 -----
@@ -22,6 +22,8 @@ Portal web | Listado de coworkers | Planes con precio preestablecido | Alquilar 
 erranT | ✓ | ✓ | ✓ | ✘ | ✘ |
 cubikate | ✘ | ✘ | ✓ | ✓ | ✓ |
 andacowork | ✘ | ✓ | ✓ | ✓ | ✓ |
+
+&nbsp;
 
 Persona & User Journey Map
 -----
@@ -39,6 +41,8 @@ Para obtener más información sobre esta experiencia de usuario mire la imagen 
 
 ![](media/DB_journey.jpg)
 
+&nbsp;
+
 Usability Review
 ----
 Se ha realizado un extenso análisis guiado por objetivos del nivel de usabilidad del portal web de erranT, con el objetivo de poder obtener, a partir de éste, conclusiones que ayuden a asegurar la usabilidad de la propuesta de rediseño.
@@ -53,8 +57,9 @@ Como puntos negativos destaca la ausencia de ayuda al usuario más allá de la q
 
 Por otra parte, destacan positivamente tanto el sistema de búsqueda que incorpora la página en la actualidad como la ofetra de servicios y funcionalidades, en especial el listado de usuarios, si bien se podría optimizar sustituyendo el trámite mediante formularios de contacto por un sistema de registro y pago online que automatizara el proceso todo lo posible.
 
+&nbsp;
 
-## Propuesta de valor del rediseño 
+# Propuesta de valor del rediseño 
 
 
 Listado de mejoras y nuevas ideas
@@ -73,6 +78,7 @@ A continuación, en base al análisis realizado a lo largo del apartado anterior
 - Elección de estación de trabajo: poder elegir, en un mapa interactivo, qué estación elegir (por supuesto, entre las disponibles). El mapa indicará también los usuarios adyacenetes a cada puesto libre, infromación extraída del listado de usuarios existente.
 - Sistema de registro y sesiones de usuario: pese a que parece ser algo evitado por las páginas de coworking, un sistema que garantice el registro y posterior inicio de sesión permitiría agilizar los trámites e interactuaría directamente con el pago online para garantizar su seguridad.
 
+&nbsp;
 
 Tasks
 -----
@@ -92,6 +98,7 @@ Registrarse | Baja | Baja |
 
 Teniendo en cuenta la tabla anterior mejorar el sistema de reservas con la nueva idea de elegir posición del puesto de trabajo y crear un sistema seguro y accesible de inicio de sesión cobran importancia en el rediseño del sitio web, como también lo hace reestructura la portada para que permita una óptima navegación y comunique la información que quiere transmitir correctamente. De igual forma también se determina que la ayuda online y el proceso de registro son funcionalidades orientadas a usuarios noveles, que por ello han de ser muy amigables de cara al usuario pero no necesariamente estar optimizadas para que hagan uso de ellas usuarios experimentados.
 
+&nbsp;
 
 Wireframes
 -----
