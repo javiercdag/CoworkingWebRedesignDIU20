@@ -63,7 +63,7 @@ Listado de mejoras y nuevas ideas
 A continuación, en base al análisis realizado a lo largo del apartado anterior, se proponen algunas modificaciones así como nuevas ideas que podría implementar la página y que no lo hace ni ésta ni las de los competidores que han sido analizadas:
 
 **Mejoras:**
-- Mejora de la estructura de navegación: se eliminan los formularios de contacto duplicados, quedando éste localizado únicamente en la página de contacto. Se elimina también las referencias, en la página principal, a "La Pecera Comunicación", siendo este espacio sustituido por una galería de fotos del local.
+- Mejora de la estructura de navegación: se eliminan los formularios de contacto duplicados, quedando éste localizado únicamente en la página de contacto. Se elimina también las referencias, en la página principal, a "La Pecera Comunicación", siendo este espacio sustituido por una galería de fotos del local, con el objetivo de cumplir la regla de sencillez (se quiere centrar la atención del usuario en lo más importante).
 - Mejora de la experiencia de usuarios noveles: introducción de una sección de ayuda en el menú principal, y enlaces a la misma en cada una de las secciones de la página.
 - Mejora de la accesibilidad del sitio web mediante la introducción de una nueva sección enfocada explícitamente para esta finalidad, acessible desde el pie de página de cualquiera de las secciones del portal.
 - Pequeñas mejoras de visualización general: centrado de los iconos de redes sociales, cambio de color de la fuente de texto sobre imágenes claras, purga de enlaces rotos y errores de back-end en la versión localizada al idioma inglés.
@@ -74,30 +74,27 @@ A continuación, en base al análisis realizado a lo largo del apartado anterior
 - Sistema de registro y sesiones de usuario: pese a que parece ser algo evitado por las páginas de coworking, un sistema que garantice el registro y posterior inicio de sesión permitiría agilizar los trámites e interactuaría directamente con el pago online para garantizar su seguridad.
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
------
-- TASKS:
-Las tareas encontradas pueden verse ![AQUÍ](P2/Tasks/)
-Se han implementado todas las tareas en los Wireframes de la sección 2.d de este documento.
-
-- SITEMAP:
-El sitemap puede verse ![AQUÍ](P2/Sitemap/)
-
-**Leyenda**
-Las flechas direccionales implican navegación entre los elementos conectados en la dirección que marca la punta.
-Las flechas discontinuas implican compartición automática de información: por ejemplo, la información del perfil del anunciante de un piso está disponible al visitar el piso que ha visitado
-
-
-**![Método UX](img/labelling.png) 2.c Labelling**
-
-El labelling está disponible ![AQUÍ](P2/Sitemap/Labelling.md)
-
-Con este labelling nuestro objetivo es dar un identificador único a cada vista de la aplicación, con la finalidad de facilitar el trabajo de desarrollo e internacionalización del producto. Hemos optado por identificadores comunes y fáciles de reconocer, para facilitar la comunicación entre los miembros del equipo de desarrollo.
-
-![Método UX](img/Wireframes.png) 2.d Wireframes
+Tasks
 -----
 
-Los wireframes pueden verse ![AQUÍ](P2/WireFrames/)
+En esta sección listamos las funcionalidades más relevantes del sitio web, ordenándolas de mayor a menor frecuencia de uso general, y analizando si la usaron usuarios noveles, expertos o ambos. Con esto buscamos identificar las tareas que se realizan más a menudo con el sitio web, para poder centrar los esfuerzos de rediseño en ellas:
+
+Tarea | Usuarios noveles | Usuarios experimentados |
+| --- | --- | --- | 
+Reservar un lugar de trabajo | Alta | Alta |
+Iniciar sesión | Alta | Alta |
+Visualizar la portada | Alta | Media |
+Contactar | Alta | Media |
+Pagar de forma online | Media | Media |
+Usar ayuda online | Alta | Baja |
+Reservar la sala de eventos | Baja | Baja |
+Registrarse | Baja | Baja |
+
+Teniendo en cuenta la tabla anterior mejorar el sistema de reservas con la nueva idea de elegir posición del puesto de trabajo y crear un sistema seguro y accesible de inicio de sesión cobran importancia en el rediseño del sitio web, como también lo hace reestructura la portada para que permita una óptima navegación y comunique la información que quiere transmitir correctamente. De igual forma también se determina que la ayuda online y el proceso de registro son funcionalidades orientadas a usuarios noveles, que por ello han de ser muy amigables de cara al usuario pero no necesariamente estar optimizadas para que hagan uso de ellas usuarios experimentados.
+
+
+Wireframes
+-----
 
 
 
