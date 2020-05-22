@@ -40,7 +40,7 @@ Para obtener más información sobre esta experiencia de usuario mire la imagen 
 Usability Review
 ----
 
-- Enlace al documento: ![Haga click aquí para ver el documento](Documents/UsabilityReview-erranT-FranciscoJavierCasadoDeAmezuaGarcia.xls)
+- Enlace al documento: ![Haga click aquí para ver el documento](documents/UsabilityReview-erranT-FranciscoJavierCasadoDeAmezuaGarcia.xls)
 - Valoración final (numérica): 69
 - Comentario sobre la valoración:
 La valoración de usabilidad da un resultado aceptable, pero muestra diferentes aspectos a mejorar al igual que otros positivos que han de aprovecharse a la hora del rediseño. Se recomienda encarecidamente comprobar el documento .xls debido a que se han incluido diversos comentarios a cada criterio evaluado.
