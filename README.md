@@ -25,14 +25,17 @@ Persona & User Journey Map
 -----
 Con el objetivo de tratar de encontrar problemas de accesibilidad o usabilidad en el sitio web se ha utilizado una persona ficticia que encaja en el perfil de uno de los tipos de clientes a los que va orientado nuestro servicio.
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+Dicha persona es Daniel Bravo, un jóven emprendedor que busca asentar su recién creada startup de márketing en el sector, y acabará intentando hacer uso de erranT para ello.
 
-- **Erika:** nuestra inspiración para crear a Erika fue imaginar la situación que podría ocurrir cuando alguien con este perfil utiliza la aplicación, y eso es lo representado en el journey map. A más personas no se identifiquen con los dos géneros clásicos, más habitual se volvería.
+Para obtener más información sobre Daniel mire la imagen que se muestra a continuación o haga click sobre ella para verla a mayor tamaño.
 
+![](media/Daniel_Bravo.jpg)
 
-- **Evaristo:** para crear el journey map de Evaristo nos fijamos en que el tutorial disponible en la página es muy pobre, algo que puede provocar que usuarios poco experimentados como él pierdan tiempo y ganas de utilizarla. Es una situación muy común hoy en día.
+A continuación se ha imaginado una de las posibles interacciones que Daniel Bravo podría tener con erranT. En él, su experiencia termina con él y su compañero de emprendimiento utilizando los servicios de erranT, pero Daniel encuentra diversas complicaciones y posibles problemas en el proceso de realización de su reserva, que serán tratados en posteriores secciones de este documento.
 
+Para obtener más información sobre esta experiencia de usuario mire la imagen que se muestra a continuación o haga click sobre ella para verla a mayor tamaño.
+
+![](media/DB_journey.jpg)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
