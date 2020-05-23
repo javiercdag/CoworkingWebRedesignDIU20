@@ -102,7 +102,10 @@ Teniendo en cuenta la tabla anterior mejorar el sistema de reservas con la nueva
 
 Wireframes
 -----
+Debido a que se ha propuesto un rediseño de la página principal (portada) del sitio web, así como el desarrollo de un sistema de registro y login, se adjuntan diseños lo-fi con los que se busca dar una orientación de su apariencia final.
+A cada esquema de diseño se le han adjuntado además etiquetas numeradas, con forma de pequeños círculos rojos, para poder hacer referencia y explicar cada elemento.
 
+![](media/wireframe-portada.jpg)
 
 
 ## Paso 3. Mi equipo UX-Case Study
