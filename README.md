@@ -72,6 +72,7 @@ A continuación, en base al análisis realizado a lo largo del apartado anterior
 - Mejora de la experiencia de usuarios noveles: introducción de una sección de ayuda en el menú principal, y enlaces a la misma en cada una de las secciones de la página.
 - Mejora de la accesibilidad del sitio web mediante la introducción de una nueva sección enfocada explícitamente para esta finalidad, acessible desde el pie de página de cualquiera de las secciones del portal.
 - Pequeñas mejoras de visualización general: centrado de los iconos de redes sociales, cambio de color de la fuente de texto sobre imágenes claras, purga de enlaces rotos y errores de back-end en la versión localizada al idioma inglés.
+- Nuevas funcionalidades: en base al estudio de la competencia, se sugiere poner a disposición del cliente un servicio de oficina virtual que permita a las empresas o autónomos que utilicen el portal web tener como dirección fiscal la dirección de su espacio de trabajo alquilado.
 
 **Nuevas ideas**
 - Pagar online: sistema de pago regular mensual personalizable.
@@ -121,6 +122,7 @@ A cada esquema de diseño se le han adjuntado además etiquetas numeradas, con f
 - Etiqueta 1: campos obligatorios para el registro. Pueden mantenerse el patrón de información mínima requerida que se utiliza en el sitio web en la actualidad, pidiendo solo nombre, email y contraseña, si se desea.
 - Etiqueta 2: campos opcionales para rellener durante el registro. Puede incluir la información del pago online.
 Nota: se recomienda encarecidamente dar un color especial al botón de registro y login al igual que se hace con el resto de los formularios de la web para mostrar su interactuabilidad.
+Nota adicional: nótese que tanto en este formulario como en el de inicio de sesión, en su versión final, cada campo deberá de ir acompañado de un representativo que indique claramente qué información ha de contener. Se sugiere el uso e iconografía minimalista con opción de mouseover, es decir, que al pasar el ratón por encima muestre información adicional, que será además legible por el lector para discapacidades visuales.
 
 &nbsp;
 
