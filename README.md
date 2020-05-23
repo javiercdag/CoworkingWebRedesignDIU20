@@ -105,7 +105,7 @@ Wireframes
 Debido a que se ha propuesto un rediseño de la página principal (portada) del sitio web, así como el desarrollo de un sistema de registro y login, se adjuntan diseños lo-fi con los que se busca dar una orientación de su apariencia final.
 A cada esquema de diseño se le han adjuntado además etiquetas numeradas, con forma de pequeños círculos rojos, para poder hacer referencia y explicar cada elemento. Los elementos que se repiten entre wireframes no han sido etiquetados en las apariciones sucesivas.
 
-![](media/wireframe-portada.jpg)
+![](media/portada.jpg)
 
 - Etiqueta 1: nuevo menú principal, similar al existente pero dando hueco al elemento 7 a la derecha y añadiendo acceso a la nuea sección de ayuda.
 - Etiqueta 2: aquí se ubica una foto que de la bienvenida al usuario al sitio web. Podría reutilizarse la actual que reza "erranT espacio cowork", aunque se sugiere una nueva en mayor resolución.
