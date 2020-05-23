@@ -115,10 +115,14 @@ A cada esquema de diseño se le han adjuntado además etiquetas numeradas, con f
 - Etiqueta 6: el nuevo pie de página, que contendrá un enlace a la nueva sección de accesibilidad y al contacto, entre cualquier otra cosa que se considere oportuna.
 - Etiqueta 7: una sección especialmente dedicada al perfil de usuario y a los enlaces que redirigen al registro o inicio de sesión, de no tener una sesión activa.
 
+&nbsp;
+
 ![](media/registro.jpg)
 - Etiqueta 1: campos obligatorios para el registro. Pueden mantenerse el patrón de información mínima requerida que se utiliza en el sitio web en la actualidad, pidiendo solo nombre, email y contraseña, si se desea.
 - Etiqueta 2: campos opcionales para rellener durante el registro. Puede incluir la información del pago online.
 Nota: se recomienda encarecidamente dar un color especial al botón de registro y login al igual que se hace con el resto de los formularios de la web para mostrar su interactuabilidad.
+
+&nbsp;
 
 ![](media/iniciosesion.jpg)
 - Etiqueta 1: campos para el inicio de sesión. Se recomienda que el campo utilizado como identificador sea flexible entre nombre de usuario e email, en el caso de que se implemente un sistema de nombres de usuario únicos.
