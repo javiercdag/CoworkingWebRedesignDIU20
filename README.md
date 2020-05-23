@@ -131,19 +131,16 @@ Nota adicional: nótese que tanto en este formulario como en el de inicio de ses
 
 &nbsp;
 
-## Paso 3. Mi equipo UX-Case Study
-
-
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
------
-
-Los métodos UX que destacan entre los utilizados por MuseMap son su Competitive Analysis y su Affinity Map, que han sido fundamentales en el desarrollo del producto. En cambio, creemos que podrían haber incorporado un Usability Review de alguno de sus competidores más directos, así como añadido una sección de Labelling que, junto a su Sitemap, habría aclarado la funcionalidad de cada una de las vistas de su producto.
-
-![Método UX](img/landing-page.png)  3.b Logotipo
+Logotipo
 ----
 
-<img src="/P3/Guidelines/logotipoFHome.png" width="200">
-Hemos utilizado Photoshop Portable CS8 para realizar el logotipo, con la idea de hacerlo lo más simple pero reconocible a simple vista posible. Por este motivo hemos utilizado una paleta de colores muy reducida y añadido a la H un grafismo para hacerla similar a una casa.
+El logotipo que utiliza actualmente erranT, si bien contener detalles inapreciables en el uso más común de uno, es bueno. Sin embargo, es un icono que representa más a la empresa en sí, que a sus servicios de coworking. Es por esto que se propone uno nuevo para esta subsección, que puede ser utilizado como identificador de la misma o como parte de su banner.
+Se ha creado con fondo transparente en el formato PNG para facilitar su incorporación a cualquier lugar del sitio, o fuera de él. Además se ha creado con una resolución de 1920 x 1920 píxeles, para garantizar su calidad en dispositivos con terminales de visualización de gran resolución.
+
+<img src="/media/coworking_logo.png" width="200">
+
+Con este logotipo se resalza la importancia de la interacción humana en el coworking, así como la T como distintivo de erranT. Además se reutiliza el color rojizo que incorpora el portal web en la actualidad, que se mantendrá en las nuevas guidelines como color de resalte, para colorear dicho distintivo. El otro color utilizado será propuesto en las guidelines como nuevo color identificativo del sitio web.
+
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
