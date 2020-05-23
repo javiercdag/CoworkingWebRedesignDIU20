@@ -135,71 +135,24 @@ Logotipo
 ----
 
 El logotipo que utiliza actualmente erranT, si bien contener detalles inapreciables en el uso más común de uno, es bueno. Sin embargo, es un icono que representa más a la empresa en sí, que a sus servicios de coworking. Es por esto que se propone uno nuevo para esta subsección, que puede ser utilizado como identificador de la misma o como parte de su banner.
-Se ha creado con fondo transparente en el formato PNG para facilitar su incorporación a cualquier lugar del sitio, o fuera de él. Además se ha creado con una resolución de 1920 x 1920 píxeles, para garantizar su calidad en dispositivos con terminales de visualización de gran resolución.
+Se ha creado con fondo transparente en el formato PNG para facilitar su incorporación a cualquier lugar del sitio, o fuera de él. Además se ha creado con una resolución de 1920 x 1920 píxeles, para garantizar su calidad en dispositivos con terminales de visualización de gran resolución. Para visualizarlo en dicha resolución hágale click y se le redirigirá a donde está almacenado, dentro de este mismo GitHub.
 
-<img src="/media/coworking_logo.png" width="200">
+<img src="/media/coworking_logo.png" width="250">
 
 Con este logotipo se resalza la importancia de la interacción humana en el coworking, así como la T como distintivo de erranT. Además se reutiliza el color rojizo que incorpora el portal web en la actualidad, que se mantendrá en las nuevas guidelines como color de resalte, para colorear dicho distintivo. El otro color utilizado será propuesto en las guidelines como nuevo color identificativo del sitio web.
 
+&nbsp;
 
-
-![Método UX](img/guidelines.png) 3.c Guidelines
+Guidelines
 ----
 
-Para el estilo de interfaz de nuestra aplicación hemos utilizado una gama de colores minimalista y una fuente moderna y clara.
-<img src="/P3/Guidelines/EstilosYPatrones.jpg" width="1000">
+Para finalizar con esta propuesta de valor sobre el rediseño de erranT, se ha considerado oportuno incluir unas guidelines actualizadas que incluyan el nuevo logotipo para la sección de coworking así como los colores y tipografía propuestos:
 
-![Método UX](img/mockup.png)  3.d Video
-----
+<img src="/media/guidelines.jpg" width="1500">
 
-El vídeo se encuentra disponible en el siguiente enlace: (https://www.youtube.com/watch?v=qQBUKe2nYXc)
+Como se puede comprobar en la imagen se propone mantener 3 de los cuatro colores utilizados en la web actualmente, sustituyendo el gris por este azul grisáceo que dota al portal web de un aspecto más moderno. Como tipografía a utilizar se propone la tipografía Lato debido a su internacional reconocimiento por su calidad, pero mantener la fuente open sans utilizada en la actualidad puede ser también una opción viable.
 
+&nbsp;
 
-
-## Paso 4. Evaluación
-
-Este paso puede encontrarse, con mayor nivel de detalle, en su [readme](P4/readme.md) asociado.
-
-![Método UX](img/ABtesting.png) 4.a Casos asignados
-----
-
-Se ha añadido un comentario personalizado para cada uno de los trabajos que nos han sido asignados; están disponibles en el documento [readme](P4/readme.md) de la práctica, en la sección 4.a. Los casos que hemos analizado son:
-
-
-- DIU1.ODAKACI: (https://github.com/cmartin-moreno/DIU20)
-
-Enlace a la valoración según rúbrica: ![CASO1/DIU1.ODAKACI_review.xls](CASO1/DIU1.ODAKACI_review.xls)
-
-
-- DIU2.Ortega-Y-Gasset: (https://github.com/romanlarrosa/DIU20)
-
-Enlace a la valoración según rúbrica: (![CASO2/DIU2.OrtegayGasset_review.xls](CASO2/DIU2.OrtegayGasset_review.xls))
-
-
-- DIU3.Manduka:  (https://github.com/alexhzr/DIUManduka)
-
-Enlace a la valoración según rúbrica: ![CASO3/DIU3.Manduka_review.xls](CASO3/DIU3.Manduka_review.xls)
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
-- DIU1.ODAKACI
-
-Hemos elegido a Evaristo para este caso.
-
-- DIU2.Ortega-Y-Gasset
-
-Para analizar la experiencia de usuario con esta aplicación hemos elegido a nuestra persona Erika.
-
-- DIU3.Manduka
-
-Hemos elegido a Evaristo para llevar a cabo la valoración en este caso.
-
-
-![Método UX](img/Survey.png). 4.c Ranking
-----
-
-- DIU2.Ortega-Y-Gasset -> 86 puntos
-
-- DIU1.ODAKACI -> 80 puntos
+# Conclusiones
+A lo largo de este ejercicio se ha realizado una propuesta de valor para el rediseño de una página web real que oferta servicios de coworking. He llevado a cabo la propuesta siguiendo el estilo del UX-Case study utilizado en las prácticas, adaptándolo a un proyecto real y modificando o no incluyendo ciertas partes con la motivación de presentar una propuesta completa pero esquemática, que podría ser utilizada como borrador de cara al proyecto final y presentada al cliente. Me ha parecido un ejercicio interesante, que nos acerca a la realidad profesional gracias al reducido período de tiempo del que se ha disponido, intencionadamente, para realizarlo.
